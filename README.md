@@ -1,0 +1,1 @@
+Machine learning exercise for classifying different ways of doing weight lifting
